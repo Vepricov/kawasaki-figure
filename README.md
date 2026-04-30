@@ -1,1 +1,1 @@
-# kawasaki-figure
+![](figure.png)
